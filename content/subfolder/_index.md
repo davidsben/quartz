@@ -1,5 +1,0 @@
----
-title: Subfolder
----
-
-Subfolder :D
