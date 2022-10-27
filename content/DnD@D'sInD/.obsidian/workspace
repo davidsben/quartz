@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "2fdd326718844c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4688a60e629cb2af",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ec4340d28ca9ba5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e6fa1263955954f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b4ac386eacf3c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f21add6a211679fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c6a6502c5b26176",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02a0fc1b17444b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "14cbcce01321207e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3546ea6380828c52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "68fc1befc89f41e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff251f3a7525e41d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39ef1af0a9dff45c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4688a60e629cb2af",
+  "lastOpenFiles": [
+    "Locations/Falstaff.md",
+    "Heroes/Wunce.md",
+    "Heroes/Wizarak.md",
+    "Heroes/Spindlesticks.md",
+    "Heroes/Hargo.md",
+    "Heroes/Dianarys.md",
+    "Enemies/Vellathdros.md",
+    "Chapters/01 - Acid Rain.md",
+    "Chapters/01.png",
+    "Enemies/vellathdros.png.md"
+  ]
+}
