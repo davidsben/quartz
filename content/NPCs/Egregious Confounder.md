@@ -1,3 +1,6 @@
+---
+title: "Egregious Confounder"
+---
 Resident of [[Falstaff]]
 
 **Note to Adventurers**

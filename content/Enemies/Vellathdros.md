@@ -1,3 +1,7 @@
+---
+title: "Vellathdros"
+---
+
 # Vellathdros, the Black Dragon
 ![[Vellathdros.png|600]]
 
