@@ -5,4 +5,4 @@ A bigger town
 
 **Residents**
 
-[[Egregious Confounder]]
+[[NPCs/Egregious Confounder|Egregious Confounder]]
