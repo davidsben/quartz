@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Wunce, The Bard
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,19 +11,11 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://davidsben.github.io/quartz/
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
 # RESPONSIVE HEADER BUG
 # this works fine (centered)
-page_title: "Brain"
+page_title: "DnD @ D's in D"
 # and this not
 # page_title: "🪴 Quartz 3.3"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
