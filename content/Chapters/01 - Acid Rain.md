@@ -9,7 +9,7 @@ title: "01 - Acid Rain"
 * [[Heroes/Wizarak|Wizarak]]
 * [[Heroes/Hargo|Hargo]]
 * [[Heroes/Dianarys|Dianarys]]
-* 
+* [[Heroes/Abaddon|Abaddon]]
 
 ![[Chapters/01.png | center | 500]]
 # Story
@@ -32,7 +32,7 @@ They spoke with the alderman, [[NPCs/Cornice Rice|Cornice Rice]], and decided to
 
 The party successfully snuck into the lair of the dragon, a clearing in the forest where the beast had surrounded himself with an acid bog, that was filled with the non-metal cast-offs from the raiding parties. Once at the lair, the party found the dragon sleeping on his hoard, with the bandit leader forced to sit nearby on watch. 
 
-The party successfully fanned out around the outskirts of the bog steathily, not stirring the dragon, nor his guard and, on Wunce's signal of a successful Faerie Fire spell, launched their surprise attack. A hail of arrows, spears, magic missiles and other spells rained down upon the sleepign dragon, almost finishing it off before it had time to stir. The dragon rose from his hoard, flying into the air to make a retreat before one final arrow thrust into it, dealing the killing blow causing it to plummet back onto it's treasure. The party spared the bandit leader, and took their reward from the hoard (coin, equipment and dragon parts), returning the merchant's crates and some money for the village coffers. 
+The party successfully fanned out around the outskirts of the bog steathily, not stirring the dragon, nor his guard and, on Wunce's signal of a successful Faerie Fire spell, launched their surprise attack. A hail of arrows, spears, magic missiles and other spells rained down upon the sleepign dragon, almost finishing it off before it had time to stir. The dragon rose from his hoard, flying into the air to make a retreat before one final arrow from [[Heroes/Abaddon|Abaddon]] thrust into it, dealing the killing blow causing it to plummet back onto it's treasure. The party spared the bandit leader, and took their reward from the hoard (coin, equipment and dragon parts), returning the merchant's crates and some money for the village coffers. 
 
 ## Conclusion
 
